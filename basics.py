@@ -7,3 +7,5 @@ def factorial(n):
 
 num = int(input())
 print(str(num) + "! = " + str(factorial(num)))
+
+
